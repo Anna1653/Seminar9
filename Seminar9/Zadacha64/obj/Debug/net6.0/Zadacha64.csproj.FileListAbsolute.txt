@@ -1,0 +1,15 @@
+D:\УЧЕБА\Языки программирования\Seminar9\Zadacha64\bin\Debug\net6.0\Zadacha64.exe
+D:\УЧЕБА\Языки программирования\Seminar9\Zadacha64\bin\Debug\net6.0\Zadacha64.deps.json
+D:\УЧЕБА\Языки программирования\Seminar9\Zadacha64\bin\Debug\net6.0\Zadacha64.runtimeconfig.json
+D:\УЧЕБА\Языки программирования\Seminar9\Zadacha64\bin\Debug\net6.0\Zadacha64.dll
+D:\УЧЕБА\Языки программирования\Seminar9\Zadacha64\bin\Debug\net6.0\Zadacha64.pdb
+D:\УЧЕБА\Языки программирования\Seminar9\Zadacha64\obj\Debug\net6.0\Zadacha64.csproj.AssemblyReference.cache
+D:\УЧЕБА\Языки программирования\Seminar9\Zadacha64\obj\Debug\net6.0\Zadacha64.GeneratedMSBuildEditorConfig.editorconfig
+D:\УЧЕБА\Языки программирования\Seminar9\Zadacha64\obj\Debug\net6.0\Zadacha64.AssemblyInfoInputs.cache
+D:\УЧЕБА\Языки программирования\Seminar9\Zadacha64\obj\Debug\net6.0\Zadacha64.AssemblyInfo.cs
+D:\УЧЕБА\Языки программирования\Seminar9\Zadacha64\obj\Debug\net6.0\Zadacha64.csproj.CoreCompileInputs.cache
+D:\УЧЕБА\Языки программирования\Seminar9\Zadacha64\obj\Debug\net6.0\Zadacha64.dll
+D:\УЧЕБА\Языки программирования\Seminar9\Zadacha64\obj\Debug\net6.0\refint\Zadacha64.dll
+D:\УЧЕБА\Языки программирования\Seminar9\Zadacha64\obj\Debug\net6.0\Zadacha64.pdb
+D:\УЧЕБА\Языки программирования\Seminar9\Zadacha64\obj\Debug\net6.0\Zadacha64.genruntimeconfig.cache
+D:\УЧЕБА\Языки программирования\Seminar9\Zadacha64\obj\Debug\net6.0\ref\Zadacha64.dll
