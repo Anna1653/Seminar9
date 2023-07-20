@@ -1,0 +1,15 @@
+D:\УЧЕБА\Языки программирования\Seminar9\Zadacha66\obj\Debug\net6.0\Zadacha66.csproj.AssemblyReference.cache
+D:\УЧЕБА\Языки программирования\Seminar9\Zadacha66\obj\Debug\net6.0\Zadacha66.GeneratedMSBuildEditorConfig.editorconfig
+D:\УЧЕБА\Языки программирования\Seminar9\Zadacha66\obj\Debug\net6.0\Zadacha66.AssemblyInfoInputs.cache
+D:\УЧЕБА\Языки программирования\Seminar9\Zadacha66\obj\Debug\net6.0\Zadacha66.AssemblyInfo.cs
+D:\УЧЕБА\Языки программирования\Seminar9\Zadacha66\obj\Debug\net6.0\Zadacha66.csproj.CoreCompileInputs.cache
+D:\УЧЕБА\Языки программирования\Seminar9\Zadacha66\bin\Debug\net6.0\Zadacha66.exe
+D:\УЧЕБА\Языки программирования\Seminar9\Zadacha66\bin\Debug\net6.0\Zadacha66.deps.json
+D:\УЧЕБА\Языки программирования\Seminar9\Zadacha66\bin\Debug\net6.0\Zadacha66.runtimeconfig.json
+D:\УЧЕБА\Языки программирования\Seminar9\Zadacha66\bin\Debug\net6.0\Zadacha66.dll
+D:\УЧЕБА\Языки программирования\Seminar9\Zadacha66\bin\Debug\net6.0\Zadacha66.pdb
+D:\УЧЕБА\Языки программирования\Seminar9\Zadacha66\obj\Debug\net6.0\Zadacha66.dll
+D:\УЧЕБА\Языки программирования\Seminar9\Zadacha66\obj\Debug\net6.0\refint\Zadacha66.dll
+D:\УЧЕБА\Языки программирования\Seminar9\Zadacha66\obj\Debug\net6.0\Zadacha66.pdb
+D:\УЧЕБА\Языки программирования\Seminar9\Zadacha66\obj\Debug\net6.0\Zadacha66.genruntimeconfig.cache
+D:\УЧЕБА\Языки программирования\Seminar9\Zadacha66\obj\Debug\net6.0\ref\Zadacha66.dll
